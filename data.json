@@ -1,5 +1,8 @@
 {
     "email": "customer@practicesoftwaretesting.com",
     "password": "welcome01",
-    "user": "Jane Doe"
+    "user": "Jane Doe",
+    "search-term": "pliers",
+    "product-name-selected": "pliers"
+
 }
